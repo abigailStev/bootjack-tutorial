@@ -1,4 +1,4 @@
 # bootjack-tutorial
-Tutorial on bootstrap and jackknife statistical techniques, developed for SOSTAT 2021 in Granada, Spain. 
+Jupyter notebook tutorial on bootstrap and jackknife statistical techniques, developed for SOSTAT 2021 in Granada, Spain. Students should first work through the one labelled `workbook`.
 
-The workbook is for students to work through, and the solutions gives all the answers.
+Accompanying lecture slides: https://speakerdeck.com/abigailstev/sostat-2021-bootstrap-and-jackknife-statistical-techniques
